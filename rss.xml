@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Allexium Asset Management]]></title>
         <description><![CDATA[Allexium Asset Management]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/allexium-asset-management/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 21:34:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 21:47:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/allexium-asset-management/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact Us]]></title>
+            <description><![CDATA[<article><h1>Contact Us</h1><p>For more information, please do not hesitate to contact us with any questions or concerns that you might have at 514.862.6605 or by email at: info@allexium.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/301e039163f7516172bf956a332d17b632fd071b.png"></article>]]></description>
+            <link>https://thegrid.ai/allexium-asset-management/8623e349-1a33-4484-9f73-48c805250bf4/index.html</link>
+            <guid isPermaLink="false">8623e349-1a33-4484-9f73-48c805250bf4</guid>
+            <pubDate>Fri, 12 Feb 2016 21:47:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Based in Montreal, Canada, Allexium Asset Management Inc. is an independent investment management firm established in 2010. Allexium provides sophisticated and highly customized investment management services catering to the specific needs of small and medium Canadian institutional investors. Allexium offers extensive expertise in managing investment policy risk through Global Asset Allocation and Currency Management Strategies.</p>]]></description>
-            <link>undefinedc8ddd6cb-e4e6-4b2d-afce-00218338ae91/index.html</link>
+            <link>https://thegrid.ai/allexium-asset-management/c8ddd6cb-e4e6-4b2d-afce-00218338ae91/index.html</link>
             <guid isPermaLink="false">c8ddd6cb-e4e6-4b2d-afce-00218338ae91</guid>
             <pubDate>Fri, 12 Feb 2016 21:34:01 GMT</pubDate>
         </item>
