@@ -1,7 +1,7 @@
 name: Allexium
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.50588
+typography_spectrum: 0.49625
 title: Allexium Asset Management
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#4e5c88'
     - '#727d9f'
     - '#b8bdcc'
-  brandStrength: 0.8125
+  brandStrength: 1
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.25
   rhythmicContrast: 0.25
 purpose: []
