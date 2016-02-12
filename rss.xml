@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Allexium Asset Management]]></title>
+        <description><![CDATA[Allexium Asset Management]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 12 Feb 2016 21:34:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Based in Montreal, Canada, Allexium Asset Management Inc. is an independent investment management firm established in 2010. Allexium provides sophisticated and highly customized investment management services catering to the specific needs of small and medium Canadian institutional investors. Allexium offers extensive expertise in managing investment policy risk through Global Asset Allocation and Currency Management Strategies.</p>]]></description>
+            <link>undefinedc8ddd6cb-e4e6-4b2d-afce-00218338ae91/index.html</link>
+            <guid isPermaLink="false">c8ddd6cb-e4e6-4b2d-afce-00218338ae91</guid>
+            <pubDate>Fri, 12 Feb 2016 21:34:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
