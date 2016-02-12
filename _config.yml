@@ -1,4 +1,4 @@
-name: Allexium Asset Management
+name: Allexium
 favicon: null
 layout_spectrum: 0.7430604044348001
 typography_spectrum: 0.16043460345827043
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.7611844202037901
-  lightness: 0.893794268136844
+    - '#f4f4f4'
+    - '#1f326a'
+    - '#4e5c88'
+    - '#727d9f'
+    - '#b8bdcc'
+  brandStrength: 0.8125
+  lightness: 0.5
   saturation: 0.31939106713980436
-  rhythmicContrast: 0.31127178971655667
+  rhythmicContrast: 0.25
 purpose: []
